@@ -1,0 +1,7 @@
+export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+export const LOGIN_FAILED='LOGIN_FAILED';
+export const GET_CARS='GET_CARS';
+export const CARS_ERROR='CARS_ERROR';
+export const SIGNUP_SUCCESS="SIGNUP_SUCCESS";
+export const SIGNUP_ERROR="SIGNUP_ERROR";
+export const LOGOUT="LOGOUT";
